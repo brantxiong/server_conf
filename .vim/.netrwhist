@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/work/linux-2.6.32.61'
+let g:netrw_dirhist_2='/home/work/bfe/conf/remote'
+let g:netrw_dirhist_3='/home/work/.vim'
+let g:netrw_dirhist_4='/home/work/.vim/colors'
+let g:netrw_dirhist_5='/home/work/xiongbo/BFE-dev-xb/bfe/conf'
+let g:netrw_dirhist_6='/home/work/xiongbo/BFE-dev-xb/bfe/conf/remote'
+let g:netrw_dirhist_7='/home/work/www'
+let g:netrw_dirhist_8='/home/work/xiongbo'
+let g:netrw_dirhist_9='/home/work/www'
